@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RAIE_A.COM</title>
+</head>
+
+<body></body>
+<hgroup>
+    <h1>PACEBOOK</h1>
+    <h2>Halaman Login</h2>
+    <article>
+        <p>isi dengan benar</p>
+    </article>
+    <form action="">
+        <label for="nama_anda">masukan nama</label>
+        <input type="text" placeholder="nama"><br>
+
+        <label for="email_anda">masukan email</label>
+        <input type="email" placeholder="email"><br>
+
+        <label for="password_anda">masukan password</label>
+        <input type="password" placeholder="password"><br><br>
+
+        <h4>pilihan hewan peliharaan</h4>
+        <input type="radio" />
+        <label for="radio">A. kucing</label><br>
+        <input type="radio" />
+        <label for="radio">B. burung</label><br>
+        <input type="radio" />
+        <label for="radio">C. harimau</label><br>
+        <input type="radio" />
+        <label for="raio">D. dinasaurus</label><br><br>
+        
+    <button>submit</button><br>
+    <label for="checkbox">setuju semua persyaratan</label>
+    <input type="checkbox">
+</form>
+</hgroup>
+</body>
+</html>
+
+
+// catatan css
+margin : 100px (top left)
+margin : 100px 200px (top left) (bottom right)
+margin : 100px 200px 3000px (top) (left right) (botton)
+margin : 100px 200px 3000px 400px (top) (left) (right) (botton)
